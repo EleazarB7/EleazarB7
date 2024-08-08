@@ -2,7 +2,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lazar-bu%C4%87an-4a88221b4/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@lazar-bucan) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/0xeleazar)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xeleazar)
 
 # 💫 About Me:
 I'm a Smart Contract Developer and Software Engineer with a focus on security, privacy, and I have a strong background in research and blockchain analytics.  
