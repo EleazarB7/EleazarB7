@@ -5,7 +5,7 @@
 [![Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/0xeleazar)
 
 # 💫 About Me:
-I'm a Smart Contract Developer and Software Engineer with a focus on security, privacy, and I have a strong background in research and blockchain analytics.  
+Hi there! I'm a passionate Smart Contract Developer and Software Engineer with a strong focus on security and privacy. With a solid background in research and blockchain analytics, I bring a unique blend of technical expertise and analytical skills to my work.  
 
 
 # 💻 Tech Stack:
