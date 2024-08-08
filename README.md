@@ -11,6 +11,11 @@ I'm a Smart Contract Developer and Software Engineer with a focus on security, p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=EleazarB7&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EleazarB7&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📝 Blog
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@lazar-bucan)
+
+Check out my latest articles on blockchain, smart contracts, and web development!
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=EleazarB7&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
